@@ -11,3 +11,18 @@ body, h1, h2, p {
     margin: 0;
     padding: 0;
 }
+
+header, footer {
+    background-color: lightgreen;
+    text-align: center;
+}
+
+main {
+    width: 90%;
+    margin: auto;
+    background-color: white;
+}
+
+article {
+    padding: 2rem 0;
+}
